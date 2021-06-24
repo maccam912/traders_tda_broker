@@ -1,3 +1,5 @@
+pub mod tda_broker;
+
 #[cfg(test)]
 mod tests {
     #[test]
